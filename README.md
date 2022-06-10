@@ -6,4 +6,4 @@ Repositório criado para o desafio de projeto.
 
 
 
-![](C:\workspace\dio-desafio-github-primeiro-repositorio\Projeto inicial\assets\github.png)
+![](https://miro.medium.com/max/1125/1*dDNpLKu_oTLzStsDTnkJ-g.png)
